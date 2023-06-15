@@ -140,9 +140,9 @@ else  if (switchfs==1 && switchrs==1&& switchls==0)
 
 ## OUTPUT:
 
-![image](https://github.com/KATHIR1611/Obstacle-Avoidance-Robot-/assets/128135186/f123dcd5-b8a4-435b-946a-99f21f044491)
+![image](https://github.com/KATHIR1611/Obstacle-Avoidance-Robot-/blob/main/uii%201.png)
 
-![image](https://github.com/KATHIR1611/Obstacle-Avoidance-Robot-/assets/128135186/79991930-22bf-4b91-a698-8cbf249422bb)
+![image](https://github.com/KATHIR1611/Obstacle-Avoidance-Robot-/blob/main/uii%202.png)
 
 ## RESULT:
 Thus the Obstacle Avoidance Robot was designed and simulated using Proteus software.
