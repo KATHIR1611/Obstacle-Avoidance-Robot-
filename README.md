@@ -1,9 +1,11 @@
-# Obstacle Avoidance Robot
+# EX:06 Obstacle Avoidance Robot
+
+Date : 12/05/23
 
 ##  AIM:
 To design and simulate Obstacle Avoidance Robot using Arduino UNO controller.
 
-## Software required:
+## SOFTWARE REQUIRED:
 Arduino IDE </br>
 Proteous
 
@@ -36,6 +38,10 @@ The IR sensors are used for obstacle detection. The sensor output signal sends t
 
 
 ## PROGRAM:
+
+Developed by : Kathirvelan.K
+
+Register number : 212221220026
 ```
 const int fs = 0; 
 const int rs = 1;
